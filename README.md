@@ -23,11 +23,11 @@ This repository is a lightweight shared workspace for maintaining weekly paper r
 
 本章节用于汇总每周最新更新的阅读清单、阅读笔记和开源项目 release logs。详细内容应写入 `updates/` 目录下对应周次的 Markdown 文件，README 中只保留索引。
 
-### 最近更新
+### 最近更新(2026-07-03)
 
-| Week | Update Summary | Reading List | Release Logs | Notes |
-|---|---|---|---|---|
-| 2026-W01 | `updates/2026-W01.md` | `weekly-reading/2026-W01.md` | - | 新增 3 篇待读论文/技术报告，暂无 release log 更新 |
+| Week       | Update Summary | Reading List | Release Logs | Notes |
+|------------|---|---|---|---|
+| 2026-W01(2026-07-03) | `updates/2026-W01.md` | `weekly-reading/2026-W01.md` | - | 新增 3 篇待读论文/技术报告，暂无 release log 更新 |
 
 ### 每周更新内容包括
 
