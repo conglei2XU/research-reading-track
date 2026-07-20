@@ -2,11 +2,14 @@
 
 用于汇总每周论文阅读清单和已整理的论文阅读笔记。
 
+
 ## Weekly Reading Lists
 
 | Week | File | Focus | Notes |
-|---|---|---|---|
-| 2026-W01 | `weekly-reading/2026-W01.md` | Small models, LoRA fine-tuning, financial information extraction, agentic learning ecosystem | 本周新增 3 篇待读论文/技术报告，重点关注小模型微调、金融交易信息抽取与 agentic RL 训练实践 |
+| --- | --- | --- | --- |
+| 2026-W02 | `weekly-reading/2026-W02.md` | Turn-level reward functions for agentic training; the roles of pretraining and post-training in building reasoning capabilities; self-improvement in agentic systems | 本周新增 3 篇待读论文或技术报告，重点关注智能体训练中的奖励函数、预训练与后训练在推理能力构建中的不同作用，以及智能体系统的自我改进机制。 |
+
+
 
 ## Paper Notes
 
