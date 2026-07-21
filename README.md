@@ -23,15 +23,17 @@ This repository is a lightweight shared workspace for maintaining weekly paper r
 
 本章节用于汇总每周最新更新的阅读清单、阅读笔记和开源项目 release logs。详细内容应写入 `updates/` 目录下对应周次的 Markdown 文件，README 中只保留索引。
 
-### 最近更新(2026-07-03)
+### 最近更新(2026-07-21)
 
-| Week       | Update Summary | Reading List | Release Logs | Notes |
-|------------|---|---|---|---|
-| 2026-W01(2026-07-03) | `updates/2026-W01.md` | `weekly-reading/2026-W01.md` | - | 新增 3 篇待读论文/技术报告，暂无 release log 更新 |
+| Week                 | Update Summary        | Reading List                 | Release Logs | Notes |
+|----------------------|-----------------------|------------------------------|---|---|
+| 2026-W01(2026-07-21) | `updates/2026-W02.md` | `weekly-reading/2026-W02.md` | - | 新增 3 篇待读论文/技术报告，暂无 release log 更新 |
 
 ### 每周更新内容包括
 
-* 新增三篇技术报告，主要涉及小参数量模型替代 8B 模型的可行性探索、agentic model 的训练实践，以及多智能体系统中 orchestrator model 的训练经验。
+* 探索使用 turn-level reward function，加强 agentic 模型训练中对长上下文任务及中间推理过程的监督。
+* 分析 reasoning 能力从 pretraining 到 post-training 的构建路径，明确不同训练阶段各自承担的功能及其作用机制。
+* 梳理 agentic self-improvement 相关研究，分析现有方法的主要技术路线、局限性及潜在优化方向。
 
 ---
 
